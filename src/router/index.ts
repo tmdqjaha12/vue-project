@@ -29,7 +29,6 @@ const router = createRouter({
       component: SamplePopup,
     },
     {
-<<<<<<< HEAD
       path: "/sampleLayout",
       name: "sampleLayout",
       component: SampleLayout,
@@ -45,8 +44,6 @@ const router = createRouter({
       component: SampleSwiper,
     },
     {
-=======
->>>>>>> 3f73cf0f92f3f2772724fe5d875225a0dff1e0a6
       path: "/about",
       name: "about",
       // route level code-splitting
