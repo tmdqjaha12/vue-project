@@ -25,7 +25,6 @@ const changeLocale = () => {
     return;
   }
 };
-
 onMounted(() => {
   const search = queryString.parse(location.search);
   console.log("search => ", search);
